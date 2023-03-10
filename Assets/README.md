@@ -1,4 +1,4 @@
-- Gambar 
+# Gambar 
 
 ![img 1](image/bandung.png)
 ![img 2](image/bosscha.jpg)
